@@ -14,6 +14,7 @@ The goal of this year is to have a deep understanding of Web development while b
     - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
 - [Other goals](#other-goals)
 - [Optional](#optional)
+- [Recommended reading](#recommended-reading)
 
 ## Progress
 
@@ -38,12 +39,12 @@ Total Points earned:
 ### Math
 **Goal**: Be comfortable with Algebra by ending tier 1 and with Precalculus by midway tier 3.
 **NOTE**: In January 8th I realized of my gaps in Algebra, so I'll be reviewing my actual skills with more basic books first.
-- [ ] [Prealgebra](https://openstax.org/details/books/prealgebra)
-- [ ] [Elementary Algebra](https://openstax.org/details/books/elementary-algebra)
-- [ ] [Intermmediate Algebra](https://openstax.org/details/books/intermediate-algebra)
-- [ ] [College Algebra](https://openstax.org/details/books/college-algebra)
-- [ ] [Algebra and Trigonometry](https://openstax.org/details/books/algebra-and-trigonometry)
-- [ ] [Precalculus](https://openstax.org/details/books/precalculus)
+- [ ] Book: **DOING**[Prealgebra](https://openstax.org/details/books/prealgebra)
+- [ ] Book: [Elementary Algebra](https://openstax.org/details/books/elementary-algebra)
+- [ ] Book: [Intermmediate Algebra](https://openstax.org/details/books/intermediate-algebra)
+- [ ] Book: [College Algebra](https://openstax.org/details/books/college-algebra)
+- [ ] Book: [Algebra and Trigonometry](https://openstax.org/details/books/algebra-and-trigonometry)
+- [ ] Book: [Precalculus](https://openstax.org/details/books/precalculus)
 
 ### Algorithms and Data Structures
 **Goal**: Be comfortable with Algorithm design and implementation, with the aim of replace college education over time.
@@ -51,7 +52,7 @@ Total Points earned:
 - [ ] Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
-- [ ] **DOING** Complete al algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
+- [ ] **DOING** Project: Complete al algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
 ---
 
 ## Programming
@@ -124,32 +125,32 @@ Total Points earned:
 ---
 
 ## Other goals
-- [ ] Build a study plan and publish a blogpost about it.
-- [ ] Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online).
+- [ ] [Improve software development workflow](#software-development-methodology)
+- [ ] Build a study plan and publish a blogpost about it
+- [ ] Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online)
 - [ ] Make three rounds of [#100daysofcode](https://github.com/jesuodz/100-days-of-code) and **follow every rule**
 - [ ] Create a blog on [Medium](https://medium.com/@jesuodz) and post every 1 ~ 4 weeks
-- [ ] Study english speaking, grammar and vocabulary at least three hours per week.
-- [ ] Learn about cryptocurrencies, markets and things associated.
+- [ ] Study english speaking, grammar and vocabulary at least three hours per week
+- [ ] Learn about cryptocurrencies, markets and things associated
 - [ ] Learn about hardware specifications
 - [ ] Get at least one Free Code Camp certificate
-- [ ] [Improve software development workflow](#software-development-methodology).
 ---
 
 ## Extra
 If you still have time enough, complete each item in order.
 
-- [ ] Finish some puzzles from [Coding Game](https://www.codingame.com/training).
-- [ ] [Algorithm Design](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) by by Jon K., Eva T.
-- [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details).
-- [ ] Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard). Consider using another language besides of Javascript.
-- [ ] [Computer Architecture](https://www.coursera.org/learn/comparch).
-- [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm).
-- [ ] [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about).
-- [ ] [Introduction to probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0).
-- [ ] Clone a video game such as: Breakout, Tetris, Pacman, Super Mario Bros, Zelda, Final Fantasy.
-- [ ] Complete any project on The Odin Project or FreeCodeCamp.
-- [ ] Clone your favorite browser extension, or create one you wish existed.
-- [ ] Clone your favorite mobile app, or create one you wish existed.
+- [ ] Project: Finish some puzzles from [Coding Game](https://www.codingame.com/training).
+- [ ] Book: [Algorithm Design](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) by by Jon K., Eva T.
+- [ ] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details).
+- [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard). Consider using another language besides of Javascript
+- [ ] Course: [Computer Architecture](https://www.coursera.org/learn/comparch)
+- [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+- [ ] Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+- [ ] Course: [Introduction to probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
+- [ ] Project: Clone a video game such as: Breakout, Tetris, Pacman, Super Mario Bros, Zelda, Final Fantasy
+- [ ] Project: Complete any project on The Odin Project or FreeCodeCamp
+- [ ] Project: Clone your favorite browser extension, or create one you wish existed
+- [ ] Project: Clone your favorite mobile app, or create one you wish existed
 
 ## Bonus List
 
@@ -184,3 +185,7 @@ If you still have time enough, complete each item in order.
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
 | HackerRank (10 problems)                    | 50                    | algorithms    |
 | Google Code Jam (1 round from past contest) | 100                   | algorithms    |
+
+## Recommended reading
+
+[Which JavaScript frameworks should you learn in 2018?](https://medium.com/@samerbuna/which-javascript-frameworks-should-you-learn-in-2018-ecea9a27617d)
