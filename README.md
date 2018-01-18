@@ -22,7 +22,7 @@ Total Points earned:
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
-| 01-18-2018 | Blog post | 15 | [My 2018 coding journey | #100DaysOfCode](https://medium.com/@jesuodz/my-2018-coding-journey-100daysofcode-eb6dc76bd0d7) |
+| 01-18-2018 | Blog post | 15 | [My 2018 coding journey](https://medium.com/@jesuodz/my-2018-coding-journey-100daysofcode-eb6dc76bd0d7) |
 |               |          |        |       |
 
 ## Preparation
