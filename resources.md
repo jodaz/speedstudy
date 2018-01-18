@@ -1,5 +1,11 @@
 # Resources
 
+## Read List
+
+["The War of Art" by Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
+["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
+["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
+
 ## Git/Github
 - [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -14,7 +20,7 @@
 - [Node JS Tutorial for Beginners | The Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [Node.js & Express From Scratch | Traversy Media](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
 - [Recipe App Using Node.js & PostgreSQL | Traversy Media](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
-- More in [Hackr.io](https://hackr.io/tutorials/learn-node-js)
+- Professional Node.js Book
 ## React resources
 - [React Docs](https://reactjs.org/docs/hello-world.html)
 - [React holiday](https://react.holiday/)
@@ -48,6 +54,7 @@
 - [LibreStock](http://librestock.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
+- [The Odin Project](http://www.theodinproject.com/)
 ## Official Docs
 - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
 - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer

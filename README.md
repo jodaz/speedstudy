@@ -1,4 +1,4 @@
-# 2018 Study plans
+# 2018 Study plan
 
 The goal of this year is to have a deep understanding of Web development while building projects along the way, get a good foundation in Math, Algorithms and Data Structures, and enough preparation to get a job on the field. This is study plan is based on the recommendations from the professor Matt Might from is blogpost [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/). But the plan itself is very personalized.
 
@@ -13,8 +13,7 @@ The goal of this year is to have a deep understanding of Web development while b
     - [Tier 3 - Practice](#tier-3---practice)
     - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
 - [Other goals](#other-goals)
-- [Optional](#optional)
-- [Recommended reading](#recommended-reading)
+- [Bonus List](#bonus-list)
 
 ## Progress
 
@@ -23,6 +22,7 @@ Total Points earned:
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
+| 01-18-2018 | Blog post | 15 | [My 2018 coding journey | #100DaysOfCode](https://medium.com/@jesuodz/my-2018-coding-journey-100daysofcode-eb6dc76bd0d7) |
 |               |          |        |       |
 
 ## Preparation
@@ -33,13 +33,13 @@ Total Points earned:
 - [ ] Read up on [Gulp](http://gulpjs.com/) and try to incorporate it in your workflow
 - [ ] Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
 - [ ] Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
-- [ ] [Learn git and Github](#git/github).   
+- [ ] [Learn git and Github](#git/github)  
 - [ ] [Learn Vim](#vim)
 
 ### Math
 **Goal**: Be comfortable with Algebra by ending tier 1 and with Precalculus by midway tier 3.
 **NOTE**: In January 8th I realized of my gaps in Algebra, so I'll be reviewing my actual skills with more basic books first.
-- [ ] Book: **DOING**[Prealgebra](https://openstax.org/details/books/prealgebra)
+- [ ] **DOING** Book: [Prealgebra](https://openstax.org/details/books/prealgebra)
 - [ ] Book: [Elementary Algebra](https://openstax.org/details/books/elementary-algebra)
 - [ ] Book: [Intermmediate Algebra](https://openstax.org/details/books/intermediate-algebra)
 - [ ] Book: [College Algebra](https://openstax.org/details/books/college-algebra)
@@ -125,22 +125,23 @@ Total Points earned:
 ---
 
 ## Other goals
-- [ ] [Improve software development workflow](#software-development-methodology)
+- [ ] [Improve software development workflow](resources.md#software-development-methodology)
 - [ ] Build a study plan and publish a blogpost about it
 - [ ] Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online)
 - [ ] Make three rounds of [#100daysofcode](https://github.com/jesuodz/100-days-of-code) and **follow every rule**
 - [ ] Create a blog on [Medium](https://medium.com/@jesuodz) and post every 1 ~ 4 weeks
 - [ ] Study english speaking, grammar and vocabulary at least three hours per week
-- [ ] Learn about cryptocurrencies, markets and things associated
+- [ ] Learn about cryptocurrencies, markets and other things associated
 - [ ] Learn about hardware specifications
 - [ ] Get at least one Free Code Camp certificate
+- [ ] Read [these books](resources.md#read-list)
 ---
 
 ## Extra
 If you still have time enough, complete each item in order.
 
-- [ ] Project: Finish some puzzles from [Coding Game](https://www.codingame.com/training).
-- [ ] Book: [Algorithm Design](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) by by Jon K., Eva T.
+- [ ] Project: Finish some puzzles from [Coding Game](https://www.codingame.com/training)
+- [ ] Book: [Algorithm Design](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) by Jon K., Eva T.
 - [ ] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details).
 - [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard). Consider using another language besides of Javascript
 - [ ] Course: [Computer Architecture](https://www.coursera.org/learn/comparch)
@@ -151,8 +152,6 @@ If you still have time enough, complete each item in order.
 - [ ] Project: Complete any project on The Odin Project or FreeCodeCamp
 - [ ] Project: Clone your favorite browser extension, or create one you wish existed
 - [ ] Project: Clone your favorite mobile app, or create one you wish existed
-
-## Bonus List
 
 ## Bonus List
 
@@ -185,7 +184,3 @@ If you still have time enough, complete each item in order.
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
 | HackerRank (10 problems)                    | 50                    | algorithms    |
 | Google Code Jam (1 round from past contest) | 100                   | algorithms    |
-
-## Recommended reading
-
-[Which JavaScript frameworks should you learn in 2018?](https://medium.com/@samerbuna/which-javascript-frameworks-should-you-learn-in-2018-ecea9a27617d)
