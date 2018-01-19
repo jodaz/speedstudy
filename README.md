@@ -17,12 +17,15 @@ The goal of this year is to have a deep understanding of Web development while b
 
 ## Progress
 
+Current Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 Courses Completed: 0  
-Total Points earned:
+Total Points earned: 315
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
 | 01-18-2018 | Blog post | 15 | [My 2018 coding journey](https://medium.com/@jesuodz/my-2018-coding-journey-100daysofcode-eb6dc76bd0d7) |
+| 01-19-2018 | Duolingo (Portuguese level 2) | 100 | [Duolingo](https://duolingo.com/jesuodz) |
+| 01-19-2018 | Book | 200 | You Don't Know JS: Up & Going |
 |               |          |        |       |
 
 ## Preparation
@@ -33,13 +36,13 @@ Total Points earned:
 - [ ] Read up on [Gulp](http://gulpjs.com/) and try to incorporate it in your workflow
 - [ ] Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
 - [ ] Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
-- [ ] [Learn git and Github](#git/github)  
-- [ ] [Learn Vim](#vim)
+- [ ] [Learn git and Github](resources.md#git/github)  
+- [ ] **Currently in progress** [Learn Vim](resources.md#vim)
 
 ### Math
 **Goal**: Be comfortable with Algebra by ending tier 1 and with Precalculus by midway tier 3.
 **NOTE**: In January 8th I realized of my gaps in Algebra, so I'll be reviewing my actual skills with more basic books first.
-- [ ] **DOING** Book: [Prealgebra](https://openstax.org/details/books/prealgebra)
+- [ ] **Currently in progress** Book: [Prealgebra](https://openstax.org/details/books/prealgebra)
 - [ ] Book: [Elementary Algebra](https://openstax.org/details/books/elementary-algebra)
 - [ ] Book: [Intermmediate Algebra](https://openstax.org/details/books/intermediate-algebra)
 - [ ] Book: [College Algebra](https://openstax.org/details/books/college-algebra)
@@ -49,20 +52,20 @@ Total Points earned:
 ### Algorithms and Data Structures
 **Goal**: Be comfortable with Algorithm design and implementation, with the aim of replace college education over time.
 - [ ] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencievolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
-- [ ] Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
+- [ ] **Currently in progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
-- [ ] **DOING** Project: Complete al algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
+- [ ] **Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
 ---
 
 ## Programming
 
 ### Tier 1 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
-- [ ] **DOING** Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+- [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ] Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
-- [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [ ] **Currently in progress** Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [ ] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
