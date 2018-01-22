@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ## Start Date
-January 18st, 2017.
+January 21st, 2017.
 
 - [Main Commitment](#main-commitment)
 - [Additional Rules](#additional-rules)
@@ -23,13 +23,14 @@ January 18st, 2017.
 
 ## Log
 
-### Day 0: January 17, Wednesday
+### Day 1: January 21, Sunday
 
-**Today's progress**:
+**Today's progress**: Advance in two chapters of Prealgebra. Read a chapter of Fundamentals of C++ Programming and code two exercises.
 
-**Thoughts**:
+**Thoughts**: Today was a good day, although I didn't have a lot of time I managed to complete at least a chapter of the book. Surely, I've things to improve like get to work first before think about social media or anything else. But after all, things went well.
 
 **Links to work**:
+[code repo](https://github.com/jesuodz/code/commit/fdaa5199f5a0aacd2c9dd77967db023820ad55eb)
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post

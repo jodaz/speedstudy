@@ -19,13 +19,15 @@ The goal of this year is to have a deep understanding of Web development while b
 
 Current Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 Courses Completed: 0  
-Total Points earned: 315
+Total Points earned: 515
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
 | 01-18-2018 | Blog post | 15 | [My 2018 coding journey](https://medium.com/@jesuodz/my-2018-coding-journey-100daysofcode-eb6dc76bd0d7) |
-| 01-19-2018 | Duolingo (Portuguese level 2) | 100 | [Duolingo](https://duolingo.com/jesuodz) |
+| 01-19-2018 | Duolingo (Portuguese level 2) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-19-2018 | Book | 200 | You Don't Know JS: Up & Going |
+| 01-19-2018 | Duolingo (Portuguese level 3) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 01-20-2018 | Duolingo (Portuguese level 4) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
 
 ## Preparation
