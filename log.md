@@ -32,6 +32,15 @@ January 21st, 2017.
 **Links to work**:
 [code repo](https://github.com/jesuodz/code/commit/fdaa5199f5a0aacd2c9dd77967db023820ad55eb)
 
+### Day 2: January 23, Tuesday
+
+**Today's progress**: Read chapter 4 of Pre Algebra and Fundamentals of C++ Programming. Reach level 6 of Portuguese.
+
+**Thoughts**: Was a hard day, I had too little time and have to spend it mostly in what was importantly. Unfortunately I didn't code more than the examples on the book.
+
+**Links to work**:
+[Tweet](https://twitter.com/jesuodz/status/956125373342867456)
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
