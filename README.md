@@ -28,7 +28,10 @@ Total Points earned: 515
 | 01-19-2018 | Book | 200 | You Don't Know JS: Up & Going |
 | 01-19-2018 | Duolingo (Portuguese level 3) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-20-2018 | Duolingo (Portuguese level 4) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 01-21-2018 | Duolingo (Portuguese level 5) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 01-23-2018 | Duolingo (Portuguese level 6) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
+
 
 ## Preparation
 
