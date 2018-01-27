@@ -50,6 +50,24 @@ January 21st, 2017.
 **Links to work**:
 [Style conference miniproject](https://github.com/jesuodz/fcc-frontend-projects/commit/be0ef1a524afbe5fa0ef877bf99dc8f87e7b2c28)
 
+### Day 4: January 25, Thursday
+
+**Today's progress**: Read and make a test from the Shay Howe course's "Learn to code HTML and CSS". Keep calm (?)
+
+**Thoughts**: I thought yesterday was a hard day, but this was even worse. A family member became ill (yesterday) and right now my anxiety levels are in spike. It's a very difficult moment, I hope to.. well.
+
+**Links to work**:
+[Style conference miniproject](https://github.com/jesuodz/fcc-frontend-projects/commit/353aaa776aa88d29d69cdfd5ffce900d7799c8b0)
+
+### Day 5: January 26, Friday
+
+**Today's progress**: Learn more about Fractions (multiplication, division and simplification) and pass one more lesson in the HTML/CSS course.
+
+**Thoughts**: I feel I'm slowly progressing, thought I have to be careful about my gaps in knowledge. I'm thinking to code more in the morning, after just waking up due to lack of time.
+
+**Links to work**:
+[Style conference miniproject](https://github.com/jesuodz/fcc-frontend-projects/commit/0779fbaec429a45f19f2811f2b944d0a26ddf540)
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)

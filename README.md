@@ -18,7 +18,9 @@ The goal of this year is to have a deep understanding of Web development while b
 ## Progress
 
 Current Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+
 Courses Completed: 0  
+
 Total Points earned: 515
 
 | Date Finished | Activity | Points | Links |
@@ -69,9 +71,9 @@ Total Points earned: 515
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ] Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
-- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [ ] **Currently in progress** Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [ ] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ] Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
