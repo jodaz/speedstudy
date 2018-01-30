@@ -21,7 +21,7 @@ Current Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
 Courses Completed: 0  
 
-Total Points earned: 515
+Total Points earned: 815
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -32,6 +32,7 @@ Total Points earned: 515
 | 01-20-2018 | Duolingo (Portuguese level 4) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-21-2018 | Duolingo (Portuguese level 5) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-23-2018 | Duolingo (Portuguese level 6) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 01-27-2018 | Duolingo (Portuguese level 7) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
 
 
