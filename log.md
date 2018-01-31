@@ -68,6 +68,15 @@ January 21st, 2017.
 **Links to work**:
 [Style conference miniproject](https://github.com/jesuodz/fcc-frontend-projects/commit/0779fbaec429a45f19f2811f2b944d0a26ddf540)
 
+### Day 6: January 30, Tuesday
+
+**Today's progress**: Practiced a lot of C++ classes for college.
+
+**Thoughts**: I couldn't code last days, because my grandfather passed away on Saturday. I really couldn't focus. Now I'm better and recovering my progress.
+
+**Links to work**:
+[Code repo](https://github.com/jesuodz/code/commit/2015873b8b787f7e2045eab8524910cd19f0a1b4) _last commit_
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
