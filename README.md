@@ -45,7 +45,7 @@ Total Points earned: 815
 - [ ] Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
 - [ ] Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [ ] [Learn git and Github](resources.md#git/github)  
-- [ ] **Currently in progress** [Learn Vim](resources.md#vim)
+- [ ] [Learn Vim](resources.md#vim)
 
 ### Math
 **Goal**: Be comfortable with Algebra by ending tier 1 and with Precalculus by midway tier 3.
@@ -68,7 +68,7 @@ Total Points earned: 815
 
 ## Programming
 
-### Tier 1 - Intro to Programming 
+### Tier 1 - Intro to Programming
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ] Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
