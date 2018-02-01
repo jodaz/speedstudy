@@ -21,7 +21,7 @@ Current Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
 Courses Completed: 0  
 
-Total Points earned: 815
+Total Points earned: 915
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -33,6 +33,7 @@ Total Points earned: 815
 | 01-21-2018 | Duolingo (Portuguese level 5) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-23-2018 | Duolingo (Portuguese level 6) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-27-2018 | Duolingo (Portuguese level 7) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 02-01-2018 | Duolingo (Portuguese level 8) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
 
 
@@ -138,7 +139,7 @@ Total Points earned: 815
 ## Other goals
 - [ ] [Improve software development workflow](resources.md#software-development-methodology)
 - [ ] Build a study plan and publish a blogpost about it
-- [ ] Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online)
+- [ ] Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online) and reach level 25 on that course
 - [ ] Make three rounds of [#100daysofcode](https://github.com/jesuodz/100-days-of-code) and **follow every rule**
 - [ ] Create a blog on [Medium](https://medium.com/@jesuodz) and post every 1 ~ 4 weeks
 - [ ] Study english speaking, grammar and vocabulary at least three hours per week
