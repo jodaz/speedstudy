@@ -48,7 +48,7 @@ January 21st, 2017.
 **Thoughts**: Right now, I'm so tired. Was a very hard day, with many unfortunately incidents but I was able to do code and learn a little.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/fcc-frontend-projects/commit/be0ef1a524afbe5fa0ef877bf99dc8f87e7b2c28)
+[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/be0ef1a524afbe5fa0ef877bf99dc8f87e7b2c28)
 
 ### Day 4: January 25, Thursday
 
@@ -57,7 +57,7 @@ January 21st, 2017.
 **Thoughts**: I thought yesterday was a hard day, but this was even worse. A family member became ill (yesterday) and right now my anxiety levels are in spike. It's a very difficult moment, I hope to.. well.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/fcc-frontend-projects/commit/353aaa776aa88d29d69cdfd5ffce900d7799c8b0)
+[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/353aaa776aa88d29d69cdfd5ffce900d7799c8b0)
 
 ### Day 5: January 26, Friday
 
@@ -66,7 +66,7 @@ January 21st, 2017.
 **Thoughts**: I feel I'm slowly progressing, thought I have to be careful about my gaps in knowledge. I'm thinking to code more in the morning, after just waking up due to lack of time.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/fcc-frontend-projects/commit/0779fbaec429a45f19f2811f2b944d0a26ddf540)
+[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/0779fbaec429a45f19f2811f2b944d0a26ddf540)
 
 ### Day 6: January 30, Tuesday
 
@@ -85,6 +85,15 @@ January 21st, 2017.
 
 **Links to work**:
 [Code repo](https://github.com/jesuodz/code/commit/639efa45959f9df0c5d9a0a991bbf6f463cd93d7) _last commit_
+
+### Day 8: February 1, Thursday
+
+**Today's progress**: Level up in Duolingo's Portuguese course. Learn lessons 6 and 7 of HTML/CSS Shay Course.
+
+**Thoughts**: I couldn't complete all the items for my today list, but it was awesome to learn more things today!. Also, I'm looking for fork the Style Conference miniproject, to make it somehow my "own project" and not only a tutorial.
+
+**Links to work**:
+[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/92f865bbc022596ea75f5e8f93a8237bd64313a5) _last commit_
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
