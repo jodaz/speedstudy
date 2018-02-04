@@ -39,8 +39,8 @@ Total Points earned: 915
 
 ## Preparation
 
-### Software workflow
-**Goal**: Improve software developmente workflow and be prepare for jobs.
+### Development workflow
+**Goal**: Improve software development workflow and be prepare for jobs.
 - [ ] [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep). Sign up for this now and work through it alongside the rest of the plan.
 - [ ] Read up on [Gulp](http://gulpjs.com/) and try to incorporate it in your workflow
 - [ ] Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
