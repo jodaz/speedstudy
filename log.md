@@ -95,6 +95,16 @@ January 21st, 2017.
 **Links to work**:
 [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/92f865bbc022596ea75f5e8f93a8237bd64313a5) _last commit_
 
+### Day 9: February 3, Saturday
+
+**Today's progress**: Learn lessons 8 and 9 of HTML/CSS Shay Course, practiced fractions, solve a new algorithm exercise for college and learn/practice portuguese (as always).
+
+**Thoughts**: Today was an incredible day, I knew I was capable to do more. I know tomorrow I'll complete the course, and also finish learning some new algorithms in c++.
+
+**Links to work**:
+[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/da61d2e0c59adf3d9f1bb6b311a3c97cc56e7bdc) _last commit_
+[Code - Ejercicio2](https://github.com/jesuodz/code/commit/7f6622edb95c26ff4026b20443698ea810d9e77e)
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
