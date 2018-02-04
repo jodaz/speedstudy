@@ -152,6 +152,7 @@ Total Points earned: 915
 ## Extra
 If you still have time enough, complete each item in order.
 
+- [ ] Course: For when you are bored [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ] Project: Finish some puzzles from [Coding Game](https://www.codingame.com/training)
 - [ ] Book: [Algorithm Design](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) by Jon K., Eva T.
 - [ ] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details).
