@@ -58,10 +58,12 @@ Total Points earned: 515
 **Goal**: Be comfortable with Algorithm design and implementation, with the aim of replace college education over time.
 - [ ] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencievolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
 - [ ] **Currently in progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
-- [ ] **Currently in progress** Book: Estructuras de datos en C++ by Luis Joyanes Ignacio Zahonero.
+- [ ] **Currently in progress** Book: Estructuras de datos en C++ by Luis Joyanes Ignacio Zahonero
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
+- [ ] Course: [Skiena's Algorithms Lectures - 2012](http://www3.cs.stonybrook.edu/~algorith/video-lectures/). Also in [Youtube](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
 - [ ] **Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
+- [ ] Project: Implement a list of data structures and algorightms learned with C++ in Javascript, using real-world problems (at least in concept). Includes linked lists, trees, graphs and sorting algorithms. Take a look [here](https://github.com/P1xt/google-interview-university)
 ---
 
 ## Programming
