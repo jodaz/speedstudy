@@ -58,6 +58,7 @@ Total Points earned: 515
 **Goal**: Be comfortable with Algorithm design and implementation, with the aim of replace college education over time.
 - [ ] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencievolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
 - [ ] **Currently in progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
+- [ ] **Currently in progress** Book: Estructuras de datos en C++ by Luis Joyanes Ignacio Zahonero.
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
 - [ ] **Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
@@ -134,7 +135,7 @@ Total Points earned: 515
 
 ## Other goals
 - [ ] [Improve software development workflow](resources.md#software-development-methodology)
-- [ ] Build a study plan and publish a blogpost about it
+- [x] Build a study plan and publish a blogpost about it
 - [ ] Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online)
 - [ ] Make three rounds of [#100daysofcode](https://github.com/jesuodz/100-days-of-code) and **follow every rule**
 - [ ] Create a blog on [Medium](https://medium.com/@jesuodz) and post every 1 ~ 4 weeks
