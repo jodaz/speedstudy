@@ -105,6 +105,15 @@ January 21st, 2017.
 [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/da61d2e0c59adf3d9f1bb6b311a3c97cc56e7bdc) _last commit_
 [Code - Ejercicio2](https://github.com/jesuodz/code/commit/7f6622edb95c26ff4026b20443698ea810d9e77e)
 
+### Day 10: February 4, Sunday
+
+**Today's progress**: I finished HTML/CSS course from Shay Howe! I know it will serve as a catapult (?) to develop better pages. Also, I finished chapter 4 of Prealgebra.
+
+**Thoughts**: I'm afraid I didn't had the progress I expected on Algorithms. Tomorrow will be my first test in college, I hope to pass it.
+
+**Links to work**:
+[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/f3c49e45dc3a2c8ac3cb6f3f4ecc2ad1782e9cbf) _last commit_
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
