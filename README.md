@@ -62,7 +62,7 @@ Total Points earned: 1015
 ### Algorithms and Data Structures
 **Goal**: Be comfortable with Algorithm design and implementation, with the aim of replace college education over time.
 - [ ] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencievolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
-- [ ] **Currently in progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
+- [ ] **Frozen progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
 - [ ] **Currently in progress** Book: Estructuras de datos en C++ by Luis Joyanes Ignacio Zahonero
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
