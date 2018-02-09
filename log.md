@@ -114,6 +114,43 @@ January 21st, 2017.
 **Links to work**:
 [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/f3c49e45dc3a2c8ac3cb6f3f4ecc2ad1782e9cbf) _last commit_
 
+### Day 11: February 5, Monday
+
+**Today's progress**: I pass my test on school. Barely
+
+**Thoughts**: Unfortunately, I didn't coded today because 
+
+**Links to work**:
+None :(
+
+### Day 12: February 6, Tuesday
+
+**Today's progress**: Today I wrote C++ templates for stacks and queues.
+
+**Thoughts**: I don't have any particular thought about this day. I mean, it wasn't nor hard nor easy, just a regular task. These last two days were like that.
+
+**Links to work**:
+[Code repo](https://github.com/jesuodz/code/commit/ddfba932fe187d9ded02d65b8a834239cacb095d) _last commit_
+
+### Day 13: February 7, Wednesday
+
+**Today's progress**: Add dequeue.cpp and its corresponding source.
+
+**Thoughts**: I just can't understand how to code a linked list, or even how pointers are used but I had to deliver the code of a double-ended queue for college today. [This code](https://github.com/jesuodz/code/commit/0d68535bd77680520c316478d171c402f56ab58d) is not mine, and although I could have showed it in class (the professor allowed it), also I thought wouldn't be capable of explain it, so it's better to understantd before how all these things work and practice them.
+
+**Links to work**:
+[code repo](https://github.com/jesuodz/code/commit/6974aea9b6c0f1c419d4afc9103ea2cf9c746bc4) _last commit_
+
+### Day 14: February 8, Thursday
+
+**Today's progress**: Complete one freeCodeCamp algorithm (Mutations) and fix the code of my Tribute Page.
+
+**Thoughts**: As some of my previous days, I didn't had enough time to code and so I try to keep late at night to match some of my goals.
+
+**Links to work**:
+[Code repo](https://github.com/jesuodz/code/commit/049dbd8b9519c888cc91ad43fbd8b16506b84a33)
+[Tribute Page](https://github.com/jesuodz/frontend-projects/commit/4f34cf7cff5128263055d087f96e57f93468cf3d) _last commit_
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
