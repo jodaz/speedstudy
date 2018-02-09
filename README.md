@@ -35,8 +35,8 @@ Total Points earned: 1015
 | 01-27-2018 | Duolingo (Portuguese level 7) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-01-2018 | Duolingo (Portuguese level 8) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-04-2018 | Course | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
+| 02-05-2018 | Duolingo (Portuguese level 9) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
-
 
 ## Preparation
 
@@ -154,7 +154,7 @@ Total Points earned: 1015
 ---
 
 ## Extra
-If you still have time enough, complete each item in order.
+If you still have time left, complete each item without any particular order.
 
 - [ ] Course: For when you are bored [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ] Project: Finish some puzzles from [Coding Game](https://www.codingame.com/training)
