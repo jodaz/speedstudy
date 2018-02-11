@@ -21,7 +21,7 @@ Current Course: NaN
 
 Courses Completed: 1  
 
-Total Points earned: 1015
+Total Points earned: 1215
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -34,8 +34,9 @@ Total Points earned: 1015
 | 01-23-2018 | Duolingo (Portuguese level 6) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-27-2018 | Duolingo (Portuguese level 7) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-01-2018 | Duolingo (Portuguese level 8) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-04-2018 | Course | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
+| 02-04-2018 | Course | 100 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
 | 02-05-2018 | Duolingo (Portuguese level 9) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 02-10-2018 | Basic project | 100 | [Paria tribute page](https://jesuodz.github.io/frontend-projects/paria-tribute-page/) V0.5 |
 |               |          |        |       |
 
 ## Preparation
@@ -78,7 +79,7 @@ Total Points earned: 1015
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ] Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
 - [x] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
-- [ ] **Currently in progress** Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+- [x] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
