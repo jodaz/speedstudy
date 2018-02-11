@@ -21,7 +21,7 @@ Current Course: NaN
 
 Courses Completed: 1  
 
-Total Points earned: 1215
+Total Points earned: 1515
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -34,9 +34,11 @@ Total Points earned: 1215
 | 01-23-2018 | Duolingo (Portuguese level 6) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 01-27-2018 | Duolingo (Portuguese level 7) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-01-2018 | Duolingo (Portuguese level 8) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-04-2018 | Course | 100 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
+| 02-04-2018 | Book | 200 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
 | 02-05-2018 | Duolingo (Portuguese level 9) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-10-2018 | Basic project | 100 | [Paria tribute page](https://jesuodz.github.io/frontend-projects/paria-tribute-page/) V0.5 |
+| 02-11-2018 | Duolingo (Portuguese level 10) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 02-04-2018 | Tutorial | 100 | [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) |
 |               |          |        |       |
 
 ## Preparation
@@ -62,8 +64,8 @@ Total Points earned: 1215
 
 ### Algorithms and Data Structures
 **Goal**: Be comfortable with Algorithm design and implementation, with the aim of replace college education over time.
-- [ ] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencievolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
-- [ ] **Frozen progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
+- [x] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://penci.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
+- [ ] **Currently in progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
 - [ ] **Currently in progress** Book: Estructuras de datos en C++ by Luis Joyanes Ignacio Zahonero
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
