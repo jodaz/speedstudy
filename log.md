@@ -151,6 +151,15 @@ None :(
 [Code repo](https://github.com/jesuodz/code/commit/049dbd8b9519c888cc91ad43fbd8b16506b84a33)
 [Tribute Page](https://github.com/jesuodz/frontend-projects/commit/4f34cf7cff5128263055d087f96e57f93468cf3d) _last commit_
 
+### Day 15: February 10, Saturday
+
+**Today's progress**: Finish the tribute page!
+
+**Thoughts**: Yesterday was a very depressing day. In fact, since Monday all my days were depressing and I was struggling to keep the challege. Anyway, today I made it and completed my tribute page to the Paria peninsula (with the help of google translate, unfortunately).
+
+**Links to work**:
+[Tribute Page](https://github.com/jesuodz/frontend-projects/commit/8eefc6e76559c865cf1686de2165a9a458ad3042)
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
