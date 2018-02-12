@@ -7,6 +7,24 @@
 - [ ] ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 - [ ] [Always be coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 - [ ] [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
+- [ ] Por qué no soy bolivariano
+- [ ] Foundation Series - Isaac Asimov
+- [ ] Communist Manifesto - Karl Marx
+- [ ] Do Android Dream of Electric Sheep? - Philip K. Dick
+- [ ] Venezuela Heroica - Eduardo Blanco
+- [ ] The Selfish Gene - Richard Dawkins
+- [ ] Brave New World - Aldous Huxley
+- [ ] Ready Player One - Ernest Cline
+- [ ] 1984 - George Orwell
+- [ ] Frente a la infamia - Marcos Pérez Jiménez
+- [ ] Venezuela, política y petróleo - Rómulo Betancourt
+- [ ] 48 Laws of Power - Robert Greene
+- [ ] The Third Wave - Alvin Toffler
+- [ ] Zero to One - Peter Thiel
+- [ ] Rich Dad Poor Dad - Robert T. Kiyosaki
+- [ ] No More Mr. Nice Guy - Robert A. Glover
+- [ ] The Power Of Now - Eckhart Tolle
+- [ ] Man's Search for Meaning - Victor E. Frankl
 
 ## Git/Github
 - [ ] [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
