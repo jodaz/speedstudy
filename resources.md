@@ -25,6 +25,7 @@
 - [ ] No More Mr. Nice Guy - Robert A. Glover
 - [ ] The Power Of Now - Eckhart Tolle
 - [ ] Man's Search for Meaning - Victor E. Frankl
+- [ ] The Pragmatic Programmer by Andy Hunt and Dave Thomas
 
 ## Git/Github
 - [ ] [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
