@@ -48,9 +48,9 @@ Total Points earned: 1515
 - [ ] [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep). Sign up for this now and work through it alongside the rest of the plan.
 - [ ] Read up on [Gulp](http://gulpjs.com/) and try to incorporate it in your workflow
 - [ ] Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
-- [ ] Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
-- [ ] [Learn git and Github](resources.md#git/github)  
-- [ ] [Learn Vim](resources.md#vim)
+- [ ] **Currently in progress** Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
+- [ ] **Currently in progress** [Learn git and Github](resources.md#git/github)  
+- [ ] **Currently in progress** [Learn Vim](resources.md#vim)
 
 ### Math
 **Goal**: Be comfortable with Algebra by ending tier 1 and with Precalculus by midway tier 3.
