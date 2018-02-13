@@ -43,7 +43,7 @@ January 21st, 2017.
 
 ### Day 3: January 24, Wednesday
 
-**Today's progress**: Finally started the HTML/CSS course from Shay Howe. Practice Portuguese and also finished college homework.
+**Today's progress**: Finally started the HTML/CSS book from Shay Howe. Practice Portuguese and also finished college homework.
 
 **Thoughts**: Right now, I'm so tired. Was a very hard day, with many unfortunately incidents but I was able to do code and learn a little.
 
@@ -52,7 +52,7 @@ January 21st, 2017.
 
 ### Day 4: January 25, Thursday
 
-**Today's progress**: Read and make a test from the Shay Howe course's "Learn to code HTML and CSS". Keep calm (?)
+**Today's progress**: Read and make a test from the Shay Howe book "Learn to code HTML and CSS". Keep calm (?)
 
 **Thoughts**: I thought yesterday was a hard day, but this was even worse. A family member became ill (yesterday) and right now my anxiety levels are in spike. It's a very difficult moment, I hope to.. well.
 
@@ -61,7 +61,7 @@ January 21st, 2017.
 
 ### Day 5: January 26, Friday
 
-**Today's progress**: Learn more about Fractions (multiplication, division and simplification) and pass one more lesson in the HTML/CSS course.
+**Today's progress**: Learn more about Fractions (multiplication, division and simplification) and pass one more lesson in the HTML/CSS book.
 
 **Thoughts**: I feel I'm slowly progressing, thought I have to be careful about my gaps in knowledge. I'm thinking to code more in the morning, after just waking up due to lack of time.
 
@@ -88,7 +88,7 @@ January 21st, 2017.
 
 ### Day 8: February 1, Thursday
 
-**Today's progress**: Level up in Duolingo's Portuguese course. Learn lessons 6 and 7 of HTML/CSS Shay Course.
+**Today's progress**: Level up in Duolingo's Portuguese course. Learn lessons 6 and 7 of HTML/CSS Shay's book.
 
 **Thoughts**: I couldn't complete all the items for my today list, but it was awesome to learn more things today!. Also, I'm looking for fork the Style Conference miniproject, to make it somehow my "own project" and not only a tutorial.
 
@@ -97,9 +97,9 @@ January 21st, 2017.
 
 ### Day 9: February 3, Saturday
 
-**Today's progress**: Learn lessons 8 and 9 of HTML/CSS Shay Course, practiced fractions, solve a new algorithm exercise for college and learn/practice portuguese (as always).
+**Today's progress**: Learn lessons 8 and 9 of HTML/CSS Shay book, practiced fractions, solve a new algorithm exercise for college and learn/practice portuguese (as always).
 
-**Thoughts**: Today was an incredible day, I knew I was capable to do more. I know tomorrow I'll complete the course, and also finish learning some new algorithms in c++.
+**Thoughts**: Today was an incredible day, I knew I was capable to do more. I know tomorrow I'll complete the book, and also finish learning some new algorithms in c++.
 
 **Links to work**:
 [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/da61d2e0c59adf3d9f1bb6b311a3c97cc56e7bdc) _last commit_
@@ -107,7 +107,7 @@ January 21st, 2017.
 
 ### Day 10: February 4, Sunday
 
-**Today's progress**: I finished HTML/CSS course from Shay Howe! I know it will serve as a catapult (?) to develop better pages. Also, I finished chapter 4 of Prealgebra.
+**Today's progress**: I finished HTML/CSS book from Shay Howe! I know it will serve as a catapult (?) to develop better pages. Also, I finished chapter 4 of Prealgebra.
 
 **Thoughts**: I'm afraid I didn't had the progress I expected on Algorithms. Tomorrow will be my first test in college, I hope to pass it.
 
@@ -159,6 +159,25 @@ None :(
 
 **Links to work**:
 [Tribute Page](https://github.com/jesuodz/frontend-projects/commit/8eefc6e76559c865cf1686de2165a9a458ad3042)
+
+### Day 16: February 11, Sunday
+
+**Today's progress**: Read Algorithms and Flowcharts
+
+**Thoughts**: I decided this day will be spended mostly organizing stuff and learning some others. 
+
+**Links to work**:
+None :(
+
+### Day 17: February 12, Monday
+
+**Today's progress**: Improve my git/github workflow, learn a bit of Vim, learn about pointers and linked lists, code a FCC challenge and math (decimals).
+
+**Thoughts**: Today was a very productive day. I will always remember to never use master branch to commit new changes, and how useful are pointers (thought I still need to practice as I haven't used them in real algorithms). 
+
+**Links to work**:
+[Code - Linked lists](https://github.com/jesuodz/code/commit/2b3a28881578c1fa6be05f84c24bea67e34759e5)
+[Code - Falsy bouncer](https://github.com/jesuodz/code/commit/f5e869ccd84114a831c6841940e6fcfa5911f826)
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
