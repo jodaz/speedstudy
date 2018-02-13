@@ -30,7 +30,7 @@ January 21st, 2017.
 **Thoughts**: Today was a good day, although I didn't have a lot of time I managed to complete at least a chapter of the book. Surely, I've things to improve like get to work first before think about social media or anything else. But after all, things went well.
 
 **Links to work**:
-[code repo](https://github.com/jesuodz/code/commit/fdaa5199f5a0aacd2c9dd77967db023820ad55eb)
+1. [code repo](https://github.com/jesuodz/code/commit/fdaa5199f5a0aacd2c9dd77967db023820ad55eb)
 
 ### Day 2: January 23, Tuesday
 
@@ -39,7 +39,7 @@ January 21st, 2017.
 **Thoughts**: Was a hard day, I had too little time and have to spend it mostly in what was importantly. Unfortunately I didn't code more than the examples on the book.
 
 **Links to work**:
-[Tweet](https://twitter.com/jesuodz/status/956125373342867456)
+1. [Tweet](https://twitter.com/jesuodz/status/956125373342867456)
 
 ### Day 3: January 24, Wednesday
 
@@ -48,7 +48,7 @@ January 21st, 2017.
 **Thoughts**: Right now, I'm so tired. Was a very hard day, with many unfortunately incidents but I was able to do code and learn a little.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/be0ef1a524afbe5fa0ef877bf99dc8f87e7b2c28)
+1. [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/be0ef1a524afbe5fa0ef877bf99dc8f87e7b2c28)
 
 ### Day 4: January 25, Thursday
 
@@ -57,7 +57,7 @@ January 21st, 2017.
 **Thoughts**: I thought yesterday was a hard day, but this was even worse. A family member became ill (yesterday) and right now my anxiety levels are in spike. It's a very difficult moment, I hope to.. well.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/353aaa776aa88d29d69cdfd5ffce900d7799c8b0)
+1. [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/353aaa776aa88d29d69cdfd5ffce900d7799c8b0)
 
 ### Day 5: January 26, Friday
 
@@ -66,7 +66,7 @@ January 21st, 2017.
 **Thoughts**: I feel I'm slowly progressing, thought I have to be careful about my gaps in knowledge. I'm thinking to code more in the morning, after just waking up due to lack of time.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/0779fbaec429a45f19f2811f2b944d0a26ddf540)
+1. [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/0779fbaec429a45f19f2811f2b944d0a26ddf540)
 
 ### Day 6: January 30, Tuesday
 
@@ -75,7 +75,7 @@ January 21st, 2017.
 **Thoughts**: I couldn't code last days, because my grandfather passed away on Saturday. I really couldn't focus. Now I'm better and recovering my progress.
 
 **Links to work**:
-[Code repo](https://github.com/jesuodz/code/commit/2015873b8b787f7e2045eab8524910cd19f0a1b4) _last commit_
+1. [Code repo](https://github.com/jesuodz/code/commit/2015873b8b787f7e2045eab8524910cd19f0a1b4) _last commit_
 
 ### Day 7: January 31, Wednesday
 
@@ -84,7 +84,7 @@ January 21st, 2017.
 **Thoughts**: I didn't learn a lot because all the things I did today was more like a review. I feel like I haven't improved, but I'm okay with that. Slow is better than nothing.
 
 **Links to work**:
-[Code repo](https://github.com/jesuodz/code/commit/639efa45959f9df0c5d9a0a991bbf6f463cd93d7) _last commit_
+1. [Code repo](https://github.com/jesuodz/code/commit/639efa45959f9df0c5d9a0a991bbf6f463cd93d7) _last commit_
 
 ### Day 8: February 1, Thursday
 
@@ -93,7 +93,7 @@ January 21st, 2017.
 **Thoughts**: I couldn't complete all the items for my today list, but it was awesome to learn more things today!. Also, I'm looking for fork the Style Conference miniproject, to make it somehow my "own project" and not only a tutorial.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/92f865bbc022596ea75f5e8f93a8237bd64313a5) _last commit_
+1. [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/92f865bbc022596ea75f5e8f93a8237bd64313a5) _last commit_
 
 ### Day 9: February 3, Saturday
 
@@ -102,8 +102,8 @@ January 21st, 2017.
 **Thoughts**: Today was an incredible day, I knew I was capable to do more. I know tomorrow I'll complete the book, and also finish learning some new algorithms in c++.
 
 **Links to work**:
-[Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/da61d2e0c59adf3d9f1bb6b311a3c97cc56e7bdc) _last commit_
-[Code - Ejercicio2](https://github.com/jesuodz/code/commit/7f6622edb95c26ff4026b20443698ea810d9e77e)
+1. [Style conference miniproject](https://github.com/jesuodz/frontend-projects/commit/da61d2e0c59adf3d9f1bb6b311a3c97cc56e7bdc) _last commit_
+2. [Code - Ejercicio2](https://github.com/jesuodz/code/commit/7f6622edb95c26ff4026b20443698ea810d9e77e)
 
 ### Day 10: February 4, Sunday
 
@@ -130,7 +130,7 @@ None :(
 **Thoughts**: I don't have any particular thought about this day. I mean, it wasn't nor hard nor easy, just a regular task. These last two days were like that.
 
 **Links to work**:
-[Code repo](https://github.com/jesuodz/code/commit/ddfba932fe187d9ded02d65b8a834239cacb095d) _last commit_
+1. [Code repo](https://github.com/jesuodz/code/commit/ddfba932fe187d9ded02d65b8a834239cacb095d) _last commit_
 
 ### Day 13: February 7, Wednesday
 
@@ -139,7 +139,7 @@ None :(
 **Thoughts**: I just can't understand how to code a linked list, or even how pointers are used but I had to deliver the code of a double-ended queue for college today. [This code](https://github.com/jesuodz/code/commit/0d68535bd77680520c316478d171c402f56ab58d) is not mine, and although I could have showed it in class (the professor allowed it), also I thought wouldn't be capable of explain it, so it's better to understantd before how all these things work and practice them.
 
 **Links to work**:
-[code repo](https://github.com/jesuodz/code/commit/6974aea9b6c0f1c419d4afc9103ea2cf9c746bc4) _last commit_
+1. [code repo](https://github.com/jesuodz/code/commit/6974aea9b6c0f1c419d4afc9103ea2cf9c746bc4) _last commit_
 
 ### Day 14: February 8, Thursday
 
@@ -148,8 +148,8 @@ None :(
 **Thoughts**: As some of my previous days, I didn't had enough time to code and so I try to keep late at night to match some of my goals.
 
 **Links to work**:
-[Code repo](https://github.com/jesuodz/code/commit/049dbd8b9519c888cc91ad43fbd8b16506b84a33)
-[Tribute Page](https://github.com/jesuodz/frontend-projects/commit/4f34cf7cff5128263055d087f96e57f93468cf3d) _last commit_
+1. [Code repo](https://github.com/jesuodz/code/commit/049dbd8b9519c888cc91ad43fbd8b16506b84a33)
+2. [Tribute Page](https://github.com/jesuodz/frontend-projects/commit/4f34cf7cff5128263055d087f96e57f93468cf3d) _last commit_
 
 ### Day 15: February 10, Saturday
 
@@ -158,7 +158,7 @@ None :(
 **Thoughts**: Yesterday was a very depressing day. In fact, since Monday all my days were depressing and I was struggling to keep the challege. Anyway, today I made it and completed my tribute page to the Paria peninsula (with the help of google translate, unfortunately).
 
 **Links to work**:
-[Tribute Page](https://github.com/jesuodz/frontend-projects/commit/8eefc6e76559c865cf1686de2165a9a458ad3042)
+2. [Tribute Page](https://github.com/jesuodz/frontend-projects/commit/8eefc6e76559c865cf1686de2165a9a458ad3042)
 
 ### Day 16: February 11, Sunday
 
@@ -176,8 +176,8 @@ None :(
 **Thoughts**: Today was a very productive day. I will always remember to never use master branch to commit new changes, and how useful are pointers (thought I still need to practice as I haven't used them in real algorithms). 
 
 **Links to work**:
-[Code - Linked lists](https://github.com/jesuodz/code/commit/2b3a28881578c1fa6be05f84c24bea67e34759e5)
-[Code - Falsy bouncer](https://github.com/jesuodz/code/commit/f5e869ccd84114a831c6841940e6fcfa5911f826)
+1. [Code - Linked lists](https://github.com/jesuodz/code/commit/2b3a28881578c1fa6be05f84c24bea67e34759e5)
+2. [Code - Falsy bouncer](https://github.com/jesuodz/code/commit/f5e869ccd84114a831c6841940e6fcfa5911f826)
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
