@@ -179,6 +179,26 @@ None :(
 1. [Code - Linked lists](https://github.com/jesuodz/code/commit/2b3a28881578c1fa6be05f84c24bea67e34759e5)
 2. [Code - Falsy bouncer](https://github.com/jesuodz/code/commit/f5e869ccd84114a831c6841940e6fcfa5911f826)
 
+### Day 18: February 13, Tuesday
+
+**Today's progress**: Continue learning math (from lesson 5.3 to 5.5) and code my first implementation of a linked list into a stack.
+
+**Thoughts**: I'm so happy I finally implemented a linked list! with pointers! (obviously), I hope to make more progress in this aspect tomorrow. 
+
+**Links to work**:
+1. [Code - Dinamic stack](https://github.com/jesuodz/code/commit/9d664632a20168e691a7fccd919c250f48847eee)
+
+### Day 19: February 14, Wednesday
+
+**Today's progress**: Code three free code camp challenges, deployed a website using surge.sh and cleaned up repositories
+
+**Thoughts**: I did not do anything that I should have done today, but everything I should have done any other day. I mean, I cleaned all my repos and pushed their changes, used surge.sh to deploy the tribute page, but I didn't learn nor code any data struc. for college. Meh, still it's not a wasted day.
+
+**Links to work**:
+1. [Paria Peninsula Tribute page](https://github.com/jesuodz/paria-tribute-page/commit/bb60fb540b3fd3bb56d9493586ff8dce93e6c6a9) _last commit_
+2. [Code repo - Just a FEW merges](https://github.com/jesuodz/code/commit/a03a260f3b9fd8100f515ca524687396a1406d2d) _last commit_
+3. [Styles Conference repo](https://github.com/jesuodz/frontend-projects/commit/4b35cb7c47cbcb3e9a7b9f1b0441a36ba9d67906) _last commit_
+
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
