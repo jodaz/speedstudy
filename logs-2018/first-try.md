@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ## Start Date
-January 21st, 2017.
+January 21st, 2018.
 
 - [Main Commitment](#main-commitment)
 - [Additional Rules](#additional-rules)
