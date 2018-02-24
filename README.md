@@ -50,14 +50,14 @@ Total Points earned: 1630
 - [ ] [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep). Sign up for this now and work through it alongside the rest of the plan.
 - [ ] Read up on [Gulp](http://gulpjs.com/) and try to incorporate it in your workflow
 - [ ] Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
-- [ ] **Currently in progress** Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
+- [ ] Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [ ] **Currently in progress** [Learn git and Github](resources.md#git/github)  
-- [ ] **Currently in progress** [Learn Vim](resources.md#vim)
+- [ ] [Learn Vim](resources.md#vim)
 
 ### Math
 **Goal**: Be comfortable with Algebra by ending tier 1 and with Precalculus by midway tier 3.
 **NOTE**: In January 8th I realized of my gaps in Algebra, so I'll be reviewing my actual skills with more basic books first.
-- [ ] **Currently in progress** Book: [Prealgebra](https://openstax.org/details/books/prealgebra)
+- [ ] Book: [Prealgebra](https://openstax.org/details/books/prealgebra)
 - [ ] Book: [Elementary Algebra](https://openstax.org/details/books/elementary-algebra)
 - [ ] Book: [Intermmediate Algebra](https://openstax.org/details/books/intermediate-algebra)
 - [ ] Book: [College Algebra](https://openstax.org/details/books/college-algebra)
@@ -72,7 +72,7 @@ Total Points earned: 1630
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
 - [ ] Course: [Skiena's Algorithms Lectures - 2012](http://www3.cs.stonybrook.edu/~algorith/video-lectures/). Also in [Youtube](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
-- [ ] **Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
+- [ ] Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
 - [ ] Project: Implement a list of data structures and algorightms learned with C++ in Javascript, using real-world problems (at least in concept). Includes linked lists, trees, graphs and sorting algorithms. Take a look [here](https://github.com/P1xt/google-interview-university)
 ---
 
@@ -81,7 +81,7 @@ Total Points earned: 1630
 ### Tier 1 - Intro to Programming
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-- [ ] Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
+- [ ] **Currently in progress** Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
 - [x] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [x] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -106,7 +106,7 @@ Total Points earned: 1630
 - [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
 - [ ] Project: Do [Javascript30](https://javascript30.com/)
-- [ ] Project: [Learn Node.js](resources.md/#node.js-resources) while building a small project for practice with the basics of Databases.
+- [ ] **Currently in progress** Project: [Learn Node.js](resources.md/#node.js-resources) while building a small project for practice with the basics of Databases.
 - [ ] Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
 - [ ] Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ] Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
@@ -155,6 +155,7 @@ Total Points earned: 1630
 - [ ] Learn about cryptocurrencies, markets and other things associated
 - [ ] Learn about hardware specifications
 - [ ] Get at least one Free Code Camp certificate
+- [ ] Pass every course on college with a grad of 7 or more.
 - [ ] Read [these books](resources.md#read-list)
 ---
 
