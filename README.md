@@ -21,7 +21,7 @@ Current Course: NaN
 
 Courses Completed: 1  
 
-Total Points earned: 1630
+Total Points earned: 1730
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -41,6 +41,7 @@ Total Points earned: 1630
 | 02-11-2018 | Tutorial | 100 | [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) |
 | 02-21-2018 | Blog post | 15 | [I lost my #100DaysOfCode streak… and my computer](https://medium.com/@jesuodz/i-lost-my-100daysofcode-streak-and-my-computer-e965eaa6d336) |
 | 02-22-2018 | Basic Project | 100 | [Personal landing page](https://jesuodz.github.io/) |
+| 02-24-2018 | Tutorial | 100 | [How to NPM](https://github.com/jesuodz/how-to-npm) |
 |               |          |        |       |
 
 ## Preparation
@@ -117,7 +118,7 @@ Total Points earned: 1630
 - [ ] Project: Do a one week Speedrun of the FreeCodeCamp Frontend Projects, finishing as many as you can in 7 days
 - [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] Project: Revisit [CSS Zen Garden](http://www.csszengarden.com/) - and implement a new design 
-- [ ] Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [ ] **Currently in progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 - [ ] Project: [Chart the Stock Market](https://www.freecodecamp.org/challenges/chart-the-stock-market)
 - [ ] Project: Clone Twitter using Node.js on the backend and React on the frontend. Include all basic features: signup/login/logout, follow user, search, tweet, like/retweet, home page with stream of recent tweets
 
