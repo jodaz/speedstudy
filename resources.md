@@ -31,7 +31,7 @@
 ## Git/Github
 - [ ] [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [ ] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- [ ] [How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
+- [x] [How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
 ## Vim
 - [ ] [The Vim Learning Curve is a Myth](https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 - [ ] [How To Learn Vim: A Four Week Plan](https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
@@ -42,7 +42,7 @@
 - [ ] [Node JS Tutorial for Beginners | The Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [ ] [Node.js & Express From Scratch | Traversy Media](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
 - [ ] [Recipe App Using Node.js & PostgreSQL | Traversy Media](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
-- Professional Node.js Book
+- [ ] Professional Node.js Book
 ## React resources
 - [ ] [React Docs](https://reactjs.org/docs/hello-world.html)
 - [ ] [React holiday](https://react.holiday/)
