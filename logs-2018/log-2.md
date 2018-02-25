@@ -27,8 +27,19 @@ February 22, 2018.
 
 **Today's progress**: Create a personal blog/portfolio landing page
 
+**Thoughts**: It seems like reading the Shay Howe book payed off.
+
 **Links to work**:
 1. [Blog/portfolio landing page](https://github.com/jesuodz/jesuodz.github.io/commits/master)
+
+### Day 2: February 22, Saturday
+
+**Today's progress**: Started Lagunita Databases minicourses and learning NPM and Node.
+
+**Thoughts**: Yesterday I didn't code because it was a rough day, and today was somewhat the same. Watching videos of the introductory course for Databases, I realize I'm able to learn more of the topic alongside Front end and Algorithms, so I signed up. I was bore of front end so I took a tuto of NPM and node and it wasn't so difficult as I thought previously, as NPM is just a package manager like aptitude in Linux (I think).
+
+**Links to work**:
+1. [how-to-npm ](https://github.com/jesuodz/how-to-npm)
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
