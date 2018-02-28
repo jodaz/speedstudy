@@ -27,6 +27,7 @@
 - [ ] Man's Search for Meaning - Victor E. Frankl
 - [ ] The Pragmatic Programmer by Andy Hunt and Dave Thomas
 - [ ] Automate the Boring Stuff with Python - Al Sweigart
+- [ ] The Boy in the Striped Pyjamas - John Boyne
 
 ## Git/Github
 - [ ] [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)

@@ -21,7 +21,7 @@ Current Course: NaN
 
 Courses Completed: 1  
 
-Total Points earned: 1730
+Total Points earned: 1930
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -41,7 +41,9 @@ Total Points earned: 1730
 | 02-11-2018 | Tutorial | 100 | [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) |
 | 02-21-2018 | Blog post | 15 | [I lost my #100DaysOfCode streak… and my computer](https://medium.com/@jesuodz/i-lost-my-100daysofcode-streak-and-my-computer-e965eaa6d336) |
 | 02-22-2018 | Basic Project | 100 | [Personal landing page](https://jesuodz.github.io/) |
+| 02-24-2018 | Tutorial | 100 | [How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) |
 | 02-24-2018 | Tutorial | 100 | [How to NPM](https://github.com/jesuodz/how-to-npm) |
+| 02-25-2018 | Duolingo | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
 
 ## Preparation
@@ -52,7 +54,7 @@ Total Points earned: 1730
 - [ ] Read up on [Gulp](http://gulpjs.com/) and try to incorporate it in your workflow
 - [ ] Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
 - [ ] Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
-- [ ] **Currently in progress** [Learn git and Github](resources.md#git/github)  
+- [x] [Learn git and Github](resources.md#git/github)  
 - [ ] [Learn Vim](resources.md#vim)
 
 ### Math
@@ -85,11 +87,11 @@ Total Points earned: 1730
 - [ ] **Currently in progress** Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
 - [x] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [x] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
-- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+- [ ] **Currently in progress** Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ] Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
-- [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
+- [ ] **Currently in progress** Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) 
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
