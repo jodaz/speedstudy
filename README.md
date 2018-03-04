@@ -21,7 +21,7 @@ Current Course: NaN
 
 Courses Completed: 1  
 
-Total Points earned: 1930
+Total Points earned: 2030
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -44,6 +44,7 @@ Total Points earned: 1930
 | 02-24-2018 | Tutorial | 100 | [How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) |
 | 02-24-2018 | Tutorial | 100 | [How to NPM](https://github.com/jesuodz/how-to-npm) |
 | 02-25-2018 | Duolingo | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 03-03-2018 | Duolingo | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
 
 ## Preparation
@@ -150,15 +151,15 @@ Total Points earned: 1930
 
 ## Other goals
 - [ ] [Improve software development workflow](resources.md#software-development-methodology)
-- [ ] Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online) and reach level 25 on that course
+- [ ] **Currently in progress** Complete the [Duolingo's portuguese tree skill](https://en.duolingo.com/course/pt/en/Learn-Portuguese-Online) and reach level 25 on that course
 - [x] Build a study plan and publish a blogpost about it
-- [ ] Make three rounds of [#100daysofcode](https://github.com/jesuodz/100-days-of-code) and **follow every rule**
-- [ ] Create a blog on [Medium](https://medium.com/@jesuodz) and post every 1 ~ 4 weeks
+- [ ] **Currently in progress** Make three rounds of [#100daysofcode](https://github.com/jesuodz/100-days-of-code) and **follow every rule**
+- [ ] **Currently in progress** Create a blog on [Medium](https://medium.com/@jesuodz) and post every 1 ~ 4 weeks
 - [ ] Study english speaking, grammar and vocabulary at least three hours per week
 - [ ] Learn about cryptocurrencies, markets and other things associated
 - [ ] Learn about hardware specifications
 - [ ] Get at least one Free Code Camp certificate
-- [ ] Pass every course on college with a grad of 7 or more.
+- [ ] **Currently in progress** Pass every college's course with a grad of 7 or more.
 - [ ] Read [these books](resources.md#read-list)
 ---
 
