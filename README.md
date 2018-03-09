@@ -21,7 +21,7 @@ Current Course: NaN
 
 Courses Completed: 1  
 
-Total Points earned: 2030
+Total Points earned: 1930
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -40,7 +40,6 @@ Total Points earned: 2030
 | 02-11-2018 | Duolingo (Portuguese level 10) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-11-2018 | Tutorial | 100 | [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) |
 | 02-21-2018 | Blog post | 15 | [I lost my #100DaysOfCode streak… and my computer](https://medium.com/@jesuodz/i-lost-my-100daysofcode-streak-and-my-computer-e965eaa6d336) |
-| 02-22-2018 | Basic Project | 100 | [Personal landing page](https://jesuodz.github.io/) |
 | 02-24-2018 | Tutorial | 100 | [How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) |
 | 02-24-2018 | Tutorial | 100 | [How to NPM](https://github.com/jesuodz/how-to-npm) |
 | 02-25-2018 | Duolingo | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
