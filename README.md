@@ -17,11 +17,13 @@ The goal of this year is to have a deep understanding of Web development while b
 
 ## Progress
 
-Current Course: NaN
+Current Courses:
+- [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 
 Courses Completed: 1  
 
-Total Points earned: 1930
+Total Points earned: 2045
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -36,15 +38,20 @@ Total Points earned: 1930
 | 02-01-2018 | Duolingo (Portuguese level 8) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-04-2018 | Book | 200 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
 | 02-05-2018 | Duolingo (Portuguese level 9) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-10-2018 | Basic project | 100 | [Paria tribute page](https://jesuodz.github.io/frontend-projects/paria-tribute-page/) V0.5 |
+| 02-10-2018 | Basic project ** | 100 | [Paria tribute page](https://jesuodz.github.io/frontend-projects/paria-tribute-page/) V0.5 |
 | 02-11-2018 | Duolingo (Portuguese level 10) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-11-2018 | Tutorial | 100 | [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) |
 | 02-21-2018 | Blog post | 15 | [I lost my #100DaysOfCode streak… and my computer](https://medium.com/@jesuodz/i-lost-my-100daysofcode-streak-and-my-computer-e965eaa6d336) |
 | 02-24-2018 | Tutorial | 100 | [How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) |
 | 02-24-2018 | Tutorial | 100 | [How to NPM](https://github.com/jesuodz/how-to-npm) |
-| 02-25-2018 | Duolingo | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 03-03-2018 | Duolingo | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 02-25-2018 | Duolingo (Portuguese level 11) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 03-03-2018 | Duolingo (Portuguese level 12) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 03-06-2018 | Substantial Project ** | 200 | [Create your Portfolio site or portfolio/blog](https://jesuodz.github.io) |
+| 03-07-2018 | Blog post | 15 | [Hello World](https://jesuodz.github.io/2018/03/07/hello-world/) |
+| 03-11-2018 | Duolingo (Portuguese level 13) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
+
+**NOTE**: Items with ** marks are still in progress. Corresponding points are not added yet.
 
 ## Preparation
 
@@ -142,7 +149,7 @@ Total Points earned: 1930
 **Goal:** Interview with confidence.
 - [ ] Project: Finish any questions you have remaining from [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep)
 - [ ] Project: Finish any of [100 Days of CSS](https://100dayscss.com/) you have yet to complete
-- [ ] Project: Create your Portfolio site or portfolio/blog with Gatsby.js or Jekyll
+- [ ] **Currently in progress** Project: Create your Portfolio site or portfolio/blog
 - [ ] Project: Create and polish your Resume/CV
 - [ ] Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
 - [ ] Project: Continue honing your skills as you interview. Prioritize contributing to open source. Also, keep writing blogposts
