@@ -13,12 +13,14 @@ The goal of this year is to have a deep understanding of Web development while b
     - [Tier 3 - Practice](#tier-3---practice)
     - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
 - [Other goals](#other-goals)
+- [Resources](resources.md)
 - [Bonus List](#bonus-list)
 
 ## Progress
 
 Current Courses:
-- [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- **Frozed progress** [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- **Frozed progress** [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about) 
 - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 
 Courses Completed: 1  
@@ -49,6 +51,7 @@ Total Points earned: 2045
 | 03-06-2018 | Substantial Project ** | 200 | [Create your Portfolio site or portfolio/blog](https://jesuodz.github.io) |
 | 03-07-2018 | Blog post | 15 | [Hello World](https://jesuodz.github.io/2018/03/07/hello-world/) |
 | 03-11-2018 | Duolingo (Portuguese level 13) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 03-24-2018 | Duolingo (Portuguese level 14) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 |               |          |        |       |
 
 **NOTE**: Items with ** marks are still in progress. Corresponding points are not added yet.
@@ -66,10 +69,6 @@ Total Points earned: 2045
 
 ### Math
 **Goal**: Be comfortable with Algebra by ending tier 1 and with Precalculus by midway tier 3.
-**NOTE**: In January 8th I realized of my gaps in Algebra, so I'll be reviewing my actual skills with more basic books first.
-- [ ] Book: [Prealgebra](https://openstax.org/details/books/prealgebra)
-- [ ] Book: [Elementary Algebra](https://openstax.org/details/books/elementary-algebra)
-- [ ] Book: [Intermmediate Algebra](https://openstax.org/details/books/intermediate-algebra)
 - [ ] Book: [College Algebra](https://openstax.org/details/books/college-algebra)
 - [ ] Book: [Algebra and Trigonometry](https://openstax.org/details/books/algebra-and-trigonometry)
 - [ ] Book: [Precalculus](https://openstax.org/details/books/precalculus)
@@ -82,7 +81,7 @@ Total Points earned: 2045
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
 - [ ] Course: [Skiena's Algorithms Lectures - 2012](http://www3.cs.stonybrook.edu/~algorith/video-lectures/). Also in [Youtube](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
-- [ ] Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
+- [ ]**Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
 - [ ] Project: Implement a list of data structures and algorightms learned with C++ in Javascript, using real-world problems (at least in concept). Includes linked lists, trees, graphs and sorting algorithms. Take a look [here](https://github.com/P1xt/google-interview-university)
 ---
 
@@ -91,7 +90,7 @@ Total Points earned: 2045
 ### Tier 1 - Intro to Programming
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-- [ ] **Currently in progress** Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
+- [ ] **Frozed progress** Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
 - [x] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [x] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 - [ ] **Currently in progress** Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -116,7 +115,7 @@ Total Points earned: 2045
 - [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
 - [ ] Project: Do [Javascript30](https://javascript30.com/)
-- [ ] **Currently in progress** Project: [Learn Node.js](resources.md/#node.js-resources) while building a small project for practice with the basics of Databases.
+- [ ] **Frozed progress** Project: [Learn Node.js](resources.md/#node.js-resources) while building a small project for practice with the basics of Databases.
 - [ ] Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
 - [ ] Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ] Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
@@ -127,7 +126,7 @@ Total Points earned: 2045
 - [ ] Project: Do a one week Speedrun of the FreeCodeCamp Frontend Projects, finishing as many as you can in 7 days
 - [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] Project: Revisit [CSS Zen Garden](http://www.csszengarden.com/) - and implement a new design 
-- [ ] **Currently in progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [ ] **Frozed progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 - [ ] Project: [Chart the Stock Market](https://www.freecodecamp.org/challenges/chart-the-stock-market)
 - [ ] Project: Clone Twitter using Node.js on the backend and React on the frontend. Include all basic features: signup/login/logout, follow user, search, tweet, like/retweet, home page with stream of recent tweets
 
