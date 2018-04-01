@@ -25,7 +25,7 @@ Current Courses:
 
 Courses Completed: 1  
 
-Total Points earned: 2045
+Total Points earned: 2145
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -40,7 +40,7 @@ Total Points earned: 2045
 | 02-01-2018 | Duolingo (Portuguese level 8) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-04-2018 | Book | 200 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
 | 02-05-2018 | Duolingo (Portuguese level 9) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-10-2018 | Basic project ** | 100 | [Paria tribute page](https://jesuodz.github.io/frontend-projects/paria-tribute-page/) V0.5 |
+| 02-10-2018 | Basic project | 100 | [Paria tribute page](https://jesuodz.github.io/paria-tribute-page/) |
 | 02-11-2018 | Duolingo (Portuguese level 10) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 02-11-2018 | Tutorial | 100 | [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) |
 | 02-21-2018 | Blog post | 15 | [I lost my #100DaysOfCode streak… and my computer](https://medium.com/@jesuodz/i-lost-my-100daysofcode-streak-and-my-computer-e965eaa6d336) |
@@ -52,6 +52,7 @@ Total Points earned: 2045
 | 03-07-2018 | Blog post | 15 | [Hello World](https://jesuodz.github.io/2018/03/07/hello-world/) |
 | 03-11-2018 | Duolingo (Portuguese level 13) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 03-24-2018 | Duolingo (Portuguese level 14) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 04-01-2018 | Book | 200 | Book: You Don't Know JS: Scope & Closures |
 |               |          |        |       |
 
 **NOTE**: Items with ** marks are still in progress. Corresponding points are not added yet.
@@ -81,7 +82,7 @@ Total Points earned: 2045
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
 - [ ] Course: [Skiena's Algorithms Lectures - 2012](http://www3.cs.stonybrook.edu/~algorith/video-lectures/). Also in [Youtube](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
-- [ ]**Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
+- [ ] **Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript
 - [ ] Project: Implement a list of data structures and algorightms learned with C++ in Javascript, using real-world problems (at least in concept). Includes linked lists, trees, graphs and sorting algorithms. Take a look [here](https://github.com/P1xt/google-interview-university)
 ---
 
@@ -93,8 +94,8 @@ Total Points earned: 2045
 - [ ] **Frozed progress** Course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
 - [x] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [x] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
-- [ ] **Currently in progress** Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-- [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
+- [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+- [ ] **Currently in progress** Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ] Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
 - [ ] **Currently in progress** Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
@@ -126,7 +127,7 @@ Total Points earned: 2045
 - [ ] Project: Do a one week Speedrun of the FreeCodeCamp Frontend Projects, finishing as many as you can in 7 days
 - [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] Project: Revisit [CSS Zen Garden](http://www.csszengarden.com/) - and implement a new design 
-- [ ] **Frozed progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [ ] **Currently in progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 - [ ] Project: [Chart the Stock Market](https://www.freecodecamp.org/challenges/chart-the-stock-market)
 - [ ] Project: Clone Twitter using Node.js on the backend and React on the frontend. Include all basic features: signup/login/logout, follow user, search, tweet, like/retweet, home page with stream of recent tweets
 
