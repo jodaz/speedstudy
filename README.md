@@ -2,7 +2,7 @@
 
 The goal of this year is to have a deep understanding of Web development while building projects along the way, get a good foundation in Math, Algorithms and Data Structures, and enough preparation to get a job on the field. This is study plan is based on the recommendations from the professor Matt Might from is blogpost [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/). But the plan itself is very personalized.
 
-- [Progress](#progress)
+- [Progress](progress.md)
 - [Preparation](#preparation)
     - [Software workflow](#development-workflow) 
     - [Math](#math)
@@ -15,47 +15,6 @@ The goal of this year is to have a deep understanding of Web development while b
 - [Other goals](#other-goals)
 - [Resources](resources.md)
 - [Bonus List](#bonus-list)
-
-## Progress
-
-Current Courses:
-- **Frozed progress** [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-- **Frozed progress** [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about) 
-- [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
-
-Courses Completed: 1  
-
-Total Points earned: 2145
-
-| Date Finished | Activity | Points | Links |
-| ------------- | -------- | ------ | ----- |
-| 01-18-2018 | Blog post | 15 | [My 2018 coding journey](https://medium.com/@jesuodz/my-2018-coding-journey-100daysofcode-eb6dc76bd0d7) |
-| 01-19-2018 | Duolingo (Portuguese level 2) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 01-19-2018 | Book | 200 | You Don't Know JS: Up & Going |
-| 01-19-2018 | Duolingo (Portuguese level 3) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 01-20-2018 | Duolingo (Portuguese level 4) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 01-21-2018 | Duolingo (Portuguese level 5) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 01-23-2018 | Duolingo (Portuguese level 6) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 01-27-2018 | Duolingo (Portuguese level 7) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-01-2018 | Duolingo (Portuguese level 8) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-04-2018 | Book | 200 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
-| 02-05-2018 | Duolingo (Portuguese level 9) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-10-2018 | Basic project | 100 | [Paria tribute page](https://jesuodz.github.io/paria-tribute-page/) |
-| 02-11-2018 | Duolingo (Portuguese level 10) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 02-11-2018 | Tutorial | 100 | [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) |
-| 02-21-2018 | Blog post | 15 | [I lost my #100DaysOfCode streak… and my computer](https://medium.com/@jesuodz/i-lost-my-100daysofcode-streak-and-my-computer-e965eaa6d336) |
-| 02-24-2018 | Tutorial | 100 | [How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) |
-| 02-24-2018 | Tutorial | 100 | [How to NPM](https://github.com/jesuodz/how-to-npm) |
-| 02-25-2018 | Duolingo (Portuguese level 11) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 03-03-2018 | Duolingo (Portuguese level 12) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 03-06-2018 | Substantial Project ** | 200 | [Create your Portfolio site or portfolio/blog](https://jesuodz.github.io) |
-| 03-07-2018 | Blog post | 15 | [Hello World](https://jesuodz.github.io/2018/03/07/hello-world/) |
-| 03-11-2018 | Duolingo (Portuguese level 13) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 03-24-2018 | Duolingo (Portuguese level 14) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
-| 04-01-2018 | Book | 200 | Book: You Don't Know JS: Scope & Closures |
-|               |          |        |       |
-
-**NOTE**: Items with ** marks are still in progress. Corresponding points are not added yet.
 
 ## Preparation
 
@@ -76,7 +35,7 @@ Total Points earned: 2145
 
 ### Algorithms and Data Structures
 **Goal**: Be comfortable with Algorithm design and implementation, with the aim of replace college education over time.
-- [x] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://penci.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
+- [x] Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](https://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
 - [ ] **Currently in progress** Book: [Fundamentals of C++ programming](http://python.cs.southern.edu/cppbook/progcpp.pdf)
 - [ ] **Currently in progress** Book: Estructuras de datos en C++ by Luis Joyanes Ignacio Zahonero
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
@@ -96,7 +55,7 @@ Total Points earned: 2145
 - [x] Project: Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 - [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [ ] **Currently in progress** Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
-- [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+- [ ] **Currently in progress** Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ] Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
 - [ ] **Currently in progress** Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
