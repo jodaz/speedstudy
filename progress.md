@@ -5,7 +5,7 @@ Current Courses:
 
 Courses Completed: 1  
 
-Total Points earned: 2445
+Total Points earned: 2645
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -34,6 +34,8 @@ Total Points earned: 2445
 | 03-24-2018 | Duolingo (Portuguese level 14) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 04-01-2018 | Book | 200 | You Don't Know JS: Scope & Closures |
 | 04-04-2018 | Duolingo (Portuguese level 15) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
+| 05-02-2018 | Substantial Project | 200 | [Simple template theme](https://github.com/jesuodz/simple) |
+| 05-03-2018 | Tutorial site | 100 | [FlexBox Froggy](http://flexboxfroggy.com/) |
 |               |          |        |       |
 
 **NOTE**: Items with ** marks are still in progress. Corresponding points are not added yet.

@@ -21,6 +21,7 @@
 - [ ]  [Node.js & Express From Scratch | Traversy Media](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
 - [ ]  [Recipe App Using Node.js & PostgreSQL | Traversy Media](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
 - [ ]  Professional Node.js Book
+- [ ]  [30 days of node](https://www.nodejsera.com/30-days-of-node.html)
 ## React resources
 - [ ]  [React Docs](https://reactjs.org/docs/hello-world.html)
 - [ ]  [React holiday](https://react.holiday/)
@@ -39,7 +40,7 @@
 ## How to use CSS to layout a site
 - [ ]  [CSS Diner](https://flukeout.github.io/)
 - [ ]  [FlexBox Defense](http://www.flexboxdefense.com/)
-- [ ]  [FlexBox Froggy](http://flexboxfroggy.com/)
+- [x]  [FlexBox Froggy](http://flexboxfroggy.com/)
 - [ ]  [Grid Garden](http://cssgridgarden.com/)
 - [ ]  [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
 ## For when you need a quick/fun productive break in which you also practice JavaScript

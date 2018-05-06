@@ -1,6 +1,6 @@
 # 2018 Study plan
 
-The goal of this year is to have a deep understanding of Web development while building projects along the way, get a good foundation in Math, Algorithms and Data Structures, and enough preparation to get a job on the field. This is study plan is based on the recommendations from the professor Matt Might from is blogpost [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/). But the plan itself is very personalized.
+The goal of this year is to have a deep understanding of Web development while building projects along the way, get a good foundation in Math, Algorithms and Data Structures, and enough preparation to get a job on the field. 
 
 - [Progress](progress.md)
 - [Preparation](#preparation)
@@ -53,9 +53,9 @@ The goal of this year is to have a deep understanding of Web development while b
 - [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [x]  Project: ~~Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)~~ Create a [tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 - [ ] **Currently in progress** Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-- [ ]  Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
+- [ ] **Currently in progress** Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
 - [ ] **Currently in progress** Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
-- [ ] **Currently in progress** Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
+- [x] Project: ~~Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)~~ [Simple template theme](https://github.com/jesuodz/simple)
 - [ ]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) 
@@ -69,11 +69,10 @@ The goal of this year is to have a deep understanding of Web development while b
 
 ### Tier 2 - Add Complexity
 **Goal:** Become familiar with D3.js and Node.js to strengthen your proficiency with JavaScript by exploring how it's used in a Full Stack application.
-- [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+- [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] **Currently in progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
-- [ ] **Frozed progress** Project: [Learn Node.js](resources.md/#node.js-resources) while building a small project for practice with the basics of Databases.
-- [ ] Course: [Learn React](resources.md/#react-resources)
-- [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
+- [ ] **Currently in progress** Project: [Learn Node.js](resources.md/#node.js-resources) while building a small project for practice with the basics of Databases.
+- [ ]  Course: [Learn React](resources.md/#react-resources)
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 - [ ]  Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
@@ -124,6 +123,7 @@ The goal of this year is to have a deep understanding of Web development while b
 If you still have time left, complete each item without any particular order.
 
 - [ ]  Project: Do [Javascript30](https://javascript30.com/)
+- [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
 - [ ]  Course: For when you are bored [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ]  Project: Finish some puzzles from [Coding Game](https://www.codingame.com/training)
 - [ ]  Book: [Algorithm Design](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) by Jon K., Eva T.
