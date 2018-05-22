@@ -1,15 +1,5 @@
 # Resources
 
-## Read List
-
-- [ ]  Book: [DOM Enlightenment](http://domenlightenment.com/)
-- [ ]  ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
-- [ ]  [Always be coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
-- [ ]  [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
-- [ ]  The Pragmatic Programmer by Andy Hunt and Dave Thomas
-- [ ]  Automate the Boring Stuff with Python - Al Sweigart
-- [ ]  Building Web Applications with UML - Jim Conallen
-
 ## Git/Github
 - [ ]  [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [ ]  [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
