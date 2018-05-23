@@ -21,8 +21,16 @@ You should understand how to use Git and Github, which you can learn using any o
 * Avoid cloud 9 or any other "just code it on the web so you don't have to learn how to code on your own machine" site.
 * Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.
 * Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
+---
+## The rules
+## Should I work through a guide in order?
+Yes. Skip nothing, even if you think you already know it.
+If you need to "double up" for variety, do no more than two items from the guide
+simultaneously and don't add a third until you finish one of the two. 
+Everything builds on everything else. Plus, if you try to do everything at once, you'll finish nothing - or
+end up "accidentally on purpose" skipping early foundational material because it was "too hard" and you moved on 
+"just for now" which eventually morphed to "forever".
 
-## How should I approach the items in the guides?
 ### Power up your learning - make every minute count 
 * When you're working through a book, type out the example code and do all the exercises.
 * When you're working through a course, do all the assignments.
@@ -51,18 +59,10 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 * Do one lesson from [CUST104: Business Communications](https://learn.saylor.org/course/view.php?id=345)
 * Live stream what you're working on for an hour. Or, lend a hand to someone who needs help by screensharing and walking them through it.
 * Catch up on industry reading on sites like [Joel on Software](https://www.joelonsoftware.com/), [Coding Horror](https://blog.codinghorror.com/), [CSS Tricks](https://css-tricks.com/), [A List Apart](http://alistapart.com/articles), [UX Myths](http://uxmyths.com/), [JavaScript Weekly](http://javascriptweekly.com/)
-
+---
 ## Do you have any hints for success?
 * have git commits every week, most of the days of the week
 * try to get in one of [@tropicalchancer's cohorts](https://chingu-cohorts.github.io/chingu-directory/) - be active once you're in
-
-## Should I work through a guide in order?
-Yes. Skip nothing, even if you think you already know it.
-If you need to "double up" for variety, do no more than two items from the guide
-simultaneously and don't add a third until you finish one of the two. 
-Everything builds on everything else. Plus, if you try to do everything at once, you'll finish nothing - or
-end up "accidentally on purpose" skipping early foundational material because it was "too hard" and you moved on 
-"just for now" which eventually morphed to "forever".
 
 ## How long will this take me?
 I don't know? How lazy are you? How much time are you devoting to it?
