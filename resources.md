@@ -1,15 +1,5 @@
 # Resources
 
-## Read List
-
-- [ ]  Book: [DOM Enlightenment](http://domenlightenment.com/)
-- [ ]  ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
-- [ ]  [Always be coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
-- [ ]  [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
-- [ ]  The Pragmatic Programmer by Andy Hunt and Dave Thomas
-- [ ]  Automate the Boring Stuff with Python - Al Sweigart
-- [ ]  Building Web Applications with UML - Jim Conallen
-
 ## Git/Github
 - [ ]  [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [ ]  [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -33,10 +23,6 @@
 - [ ]  [Contributing to My First Open Source Project](https://hackernoon.com/contributing-to-my-first-open-source-project-3e432c5e8caa)
 - [ ]  [How to Start an Open Source Project on GitHub (that people use)](https://medium.freecodecamp.org/i-made-my-first-open-source-contribution-within-200-days-and-how-you-can-too-4d5bdbd63fad) _maybe?_
 - [ ]  [How to get started into open source in 5 steps](http://www.barryclark.co/starting-an-open-source-project/)
-## Software development methodology
-- [ ]  [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
-- [ ]  [Extreme Programming](http://xp.c2.com/ExtremeProgramming.html)
-- [ ]  [XP for one](http://xp.c2.com/ExtremeProgrammingForOne.html)
 ## How to use CSS to layout a site
 - [ ]  [CSS Diner](https://flukeout.github.io/)
 - [ ]  [FlexBox Defense](http://www.flexboxdefense.com/)
