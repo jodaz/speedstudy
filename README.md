@@ -23,6 +23,7 @@ The goal of this year is to have a deep understanding of Web development while b
 
 ### Tier 0 - Prep
 **Goal**:Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by midway through Tier 2.
+
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
 - [ ]  [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep). Sign up for this now and work through it alongside the rest of the plan.
 - [ ]  Read up on [Gulp](http://gulpjs.com/) and try to incorporate it in your workflow
@@ -36,6 +37,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ### Tier 1 - Intro to Programming
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
+
 _You should be able to get the FreeCodeCamp Frontend Certification after this tier_
 - [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] **Frozed progress** Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
@@ -61,6 +63,7 @@ _You should be able to get the FreeCodeCamp Frontend Certification after this ti
 
 ### Tier 2 - Add Complexity
 **Goal:** Become familiar with D3.js and Node.js to strengthen your proficiency with JavaScript by exploring how it's used in a Full Stack application.
+
 _During this tier you should get the FreeCodeCamp Data Visualization Certification. Also, from now on this you'll Depth dive into Computer Science._
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] **Currently in progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
@@ -80,6 +83,7 @@ _During this tier you should get the FreeCodeCamp Data Visualization Certificati
 
 ### Tier 3 - Practice
 **Goal:** Practice Frontend Development in greater depth and continue studying JavaScript, ensuring you understand the algorithms and data structures you're likely to encounter in interviews (and on the job).
+
 _During this tier you should get the FreeCodeCamp Backend Certification. Being the hardest tier, you should combine the projects carefully with the topics covered during the part two from of this guide._
 - [ ]  Project: Read these resources on [how to contribute to Open Source](resources.md/#open-source-contributions-resources) - and make two contributions to open source projects (of your choice) by the end of this Tier.
 - [ ]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf).
@@ -94,6 +98,7 @@ _During this tier you should get the FreeCodeCamp Backend Certification. Being t
 
 ### Tier 4 - Wrap everything up and prep for interviews
 **Goal:** Interview with confidence.
+
 _By the end of this tier, you should have completed at least 50% of the part two_
 - [ ]  Project: Finish any questions you have remaining from [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep)
 - [ ]  Project: Finish any of [100 Days of CSS](https://100dayscss.com/) you have yet to complete.
@@ -122,7 +127,7 @@ _By the end of this tier, you should have completed at least 50% of the part two
 
 ### Programming
 _From soft-medium to advace topics_
-**_This part is mostly personalized, I already have experience with Python and C++_**
+**_This part is mostly personalized as I already have experience with Python and C++_**
 - [ ]  Book: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [ ]  Project: Complete any of the backend projects from FCC with Python as the backend language
 - [ ]  Read: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
