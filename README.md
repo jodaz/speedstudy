@@ -140,5 +140,11 @@ _From soft-medium to advace topics_
 - [ ]  Course: [Software Development Courses](https://www.edx.org/micromasters/software-development)
 - [ ]  Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - [ ]  Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+- [ ] **Currently in progress** Course: [Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management/)
+- [ ]  Course: [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices/)
+- [ ]  Course: [Client Needs and Software Requirements](https://www.coursera.org/learn/client-needs-and-software-requirements)
+- [ ]  Course: [Agile Planning for Software Products](https://www.coursera.org/learn/agile-planning-for-software-products)
+- [ ]  Course: [Reviews & Metrics for Software Improvements](https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements)
+- [ ]  Course: [Software Product Management Capstone](https://www.coursera.org/learn/software-product-management-capstone)
 
 **Sidenote**: Obviously, this isn't perfect. It is mostly an outgoing project.
