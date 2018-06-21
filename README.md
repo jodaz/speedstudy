@@ -4,14 +4,13 @@ The aims of these years is to have a deep understanding of Web development while
 
 - [Progress](progress.md)
 - [The rules](faq.md#the-rules)
-- [Part One: Getting Job Ready](#Part-One---Getting-Job-Ready)
+- [Part One - Getting Job Ready](#Part-One---Getting-Job-Ready)
     - [Tier 0 - Prep](#tier-0---prep)
     - [Tier 1 - Intro to Programming](#tier-1---intro-to-programming)
     - [Tier 2 - Add Complexity](#tier-2---add-complexity)
     - [Tier 3 - Practice](#tier-3---practice)
     - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
-- [Part Two: Depth dive into Computer Science.](#Part-Two---Depth-dive-into-Computer-Science.)
-    - [Software workflow](#development-workflow) 
+- [Part Two - Depth dive into Computer Science.](#Part-Two---Depth-dive-into-Computer-Science.)
     - [Math](#math)
     - [Algorithms & Data Structures](#algorithms-and-data-structures)
     - [Programming](#Programming)
@@ -42,7 +41,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 _You should be able to get the FreeCodeCamp Frontend Certification after this tier_
 - [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] **Frozed progress** Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
-- [x]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
+- [x]  Book: ~~[You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)~~ or [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [x]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] **Currently in progress** Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
@@ -68,7 +67,6 @@ _You should be able to get the FreeCodeCamp Frontend Certification after this ti
 _During this tier you should get the FreeCodeCamp Data Visualization Certification. Also, from now on this you'll Depth dive into Computer Science._
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] **Currently in progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
-- [ ] **Currently in progress** Project: [Learn Node.js](resources.md/#node.js-resources) while building a small project for practice with the basics of Databases.
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
@@ -130,17 +128,17 @@ _By the end of this tier, you should have completed at least 50% of the part two
 _From soft-medium to advace topics_
 **_This part is mostly personalized as I already have experience with Python and C++_**
 - [ ]  Book: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [ ]  Project: Complete any of the backend projects from FCC with Python as the backend language
+- [ ]  Project: Complete or redo any of the backend projects from FCC with Python as the backend language
 - [ ]  Read: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 - [ ]  Read: [What every programmer should know about memory](https://lwn.net/Articles/250967/)
 - [ ]  Book: [Sams Teach Yourself C++ in One Hour a Day](https://www.informit.com/store/c-plus-plus-in-one-hour-a-day-sams-teach-yourself-9780789757746)
-- [ ]  Project: Complete any of the backend projects from FCC with C++ as the backend language
+- [ ]  Project: Complete or redo any of the backend projects from FCC with C++ as the backend language
 - [ ]  Book: [The Rust Programming Language](https://doc.rust-lang.org/book/)
-- [ ]  Project: Complete any of the backend projects from FCC with Rust as the backend language
+- [ ]  Project: Complete or redo any of the backend projects from FCC with Rust as the backend language
 - [ ]  Course: [Software Development Courses](https://www.edx.org/micromasters/software-development)
 - [ ]  Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - [ ]  Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
-- [ ] **Currently in progress** Course: [Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management/)
+- [x]  Course: [Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management/)
 - [ ]  Course: [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices/)
 - [ ]  Course: [Client Needs and Software Requirements](https://www.coursera.org/learn/client-needs-and-software-requirements)
 - [ ]  Course: [Agile Planning for Software Products](https://www.coursera.org/learn/agile-planning-for-software-products)

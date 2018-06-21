@@ -5,7 +5,7 @@ Current Courses:
 
 Courses Completed: 1  
 
-Total Points earned: 2645
+Total Points earned: 3145
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -36,6 +36,7 @@ Total Points earned: 2645
 | 04-04-2018 | Duolingo (Portuguese level 15) | 100 | [Duolingo](https://www.duolingo.com/jesuodz) |
 | 05-02-2018 | Substantial Project | 200 | [Simple template theme](https://github.com/jesuodz/simple) |
 | 05-03-2018 | Tutorial site | 100 | [FlexBox Froggy](http://flexboxfroggy.com/) |
+| 06-10-2018 | Course | 500 | [Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management/) |
 |               |          |        |       |
 
 **NOTE**: Items with ** marks are still in progress. Corresponding points are not added yet.
