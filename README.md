@@ -30,8 +30,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Read up on [Mocha](https://mochajs.org/) and try to incorporate it in your workflow
 - [ ]  Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [x]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
-- [ ]  [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-- [ ]  Read: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+- [ ]  Read: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [ ] **DOING** Read: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
 - [ ]  Read: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
 - [ ]  Book: [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) _this is a must-read_
 
@@ -39,14 +39,14 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 
 _You should be able to get the FreeCodeCamp Frontend Certification after this tier_
-- [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [ ] **Frozed progress** Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
-- [x]  Book: ~~[You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)~~ or [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [ ] **DOING** Book: ~~[You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)~~ or [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [ ] **FROZED** Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
+- [x]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [x]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
-- [ ] **Currently in progress** Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-- [ ] **Currently in progress** Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
-- [ ] **Currently in progress** Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
+- [ ] **DOING** Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+- [ ] **DOING** Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
+- [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [x] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ]  Book: [DOM Enlightenment](http://domenlightenment.com/)
 - [ ]  Project: Henceforth, finish one FreeCodeCamp Frontend Project every 7 to 10 days.
@@ -66,7 +66,7 @@ _You should be able to get the FreeCodeCamp Frontend Certification after this ti
 
 _During this tier you should get the FreeCodeCamp Data Visualization Certification. Also, from now on this you'll Depth dive into Computer Science._
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
-- [ ] **Currently in progress** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [ ] **FROZED** Course: [Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
@@ -119,7 +119,7 @@ _By the end of this tier, you should have completed at least 50% of the part two
 - [x]  Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](https://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
 - [ ]  Book: Introduction to Algorithms by CLRS or [Algorithms](http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/alpdf) by DPV
 - [ ]  Course: [Skiena's Algorithms Lectures - 2012](http://www3.cs.stonybrook.edu/~algorith/video-lectures/). Also in [Youtube](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
-- [ ]  **Currently in progress** Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript.
+- [ ]   Project: Complete all algorithms from FreeCodeCamp while working through the study plan, whenever you can and with at least one other language in addition to Javascript.
 - [ ]  Book: [Algorithm Design](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) by Jon K., Eva T.
 - [ ]  Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard). Consider using another language besides of Javascript.
 - [ ]  Project: Finish all the Classic Puzzles from [Coding Game](https://www.codingame.com/)
